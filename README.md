@@ -1,5 +1,7 @@
 # ComfyUI Precision Model Save
 
+For users who merge models in ComfyUI and want the saved checkpoint to match the live merged model exactly.
+
 A small diagnostic custom node for saving a **live merged MODEL** without using
 ComfyUI's normal `ModelSave` materialisation path.
 
