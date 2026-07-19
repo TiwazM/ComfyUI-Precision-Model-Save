@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-Precision-Model-Save"
 description = "Your Intelligent Assistant for Comfy-UI."
-version = "1.0.1"
+version = "1.0.0"
 license = "Apache 2.0"
 
 [project.urls]
