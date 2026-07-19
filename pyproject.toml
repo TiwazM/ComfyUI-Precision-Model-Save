@@ -2,7 +2,7 @@
 name = "ComfyUI-Precision-Model-Save"
 description = "Your Intelligent Assistant for Comfy-UI."
 version = "1.0.1"
-license = {file = "LICENSE"}
+license = "Apache 2.0"
 
 [project.urls]
 Repository = "https://github.com/TiwazM/ComfyUI-Precision-Model-Save"
